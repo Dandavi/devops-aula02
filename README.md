@@ -1,4 +1,5 @@
 # devops-aula02
-Adam Sandler
+Morena Baccarin
 Gal Gadot
 Ryan Reynolds
+Stan Lee
